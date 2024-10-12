@@ -1,0 +1,20 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "creating blog app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.6",
+    "cookies": "^0.9.1",
+    "envdot": "^0.0.3",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}
